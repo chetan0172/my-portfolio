@@ -17,7 +17,7 @@ const About = () => {
         </div>
         <div className="about-right">
             <div className="about-para">
-                <p>"Hi there! 👋 I'm Chetan K, a passionate Frontend Developer who transforms ideas into interactive, visually stunning, and user-friendly web applications. With a deep love for clean code and seamless design, I specialize in creating digital experiences that captivate users and solve real-world problems.
+                <p>"Hi there! 👋 I'm Chetan k, a passionate Frontend Developer who transforms ideas into interactive, visually stunning, and user-friendly web applications. With a deep love for clean code and seamless design, I specialize in creating digital experiences that captivate users and solve real-world problems.
 
 When I’m not building sleek user interfaces, you’ll find me exploring the latest design trends, experimenting with new frameworks, or tweaking animations to perfection.
 
@@ -31,6 +31,7 @@ Let’s build something amazing together! 🚀"
                 <div className="about-skill"><p>React JS</p><hr style={{width:"70%"}} /></div>
                 <div className="about-skill"><p>JavaScript</p><hr style={{width:"60%"}} /></div>
                 <div className="about-skill"><p>Next JS</p><hr style={{width:"50%"}} /></div>
+                <div className="about-skill"><p>Typescript</p><hr style={{width:"60%"}} /></div>
                 <div className="about-skill"><p>DevOps</p><hr style={{width:"70%"}} /></div>
             </div>
         </div>
